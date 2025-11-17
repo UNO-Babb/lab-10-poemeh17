@@ -1,7 +1,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21664274)
 # Lab 10 - Visualizations with Matplotlib
 
-For this lab, you will look at one of many interesting datasets that are freely available on the internet.
+For this lab, you will look at one of many interesting datasets that are freely available on the inhttps://corgis-edu.github.io/corgis/datasets/python/graduates/graduates.pyternet.
 
 ## Step 1 - Import packages
 Go to the [CORGIS website](https://corgis-edu.github.io/corgis/python/) and choose a dataset you find interesting.
